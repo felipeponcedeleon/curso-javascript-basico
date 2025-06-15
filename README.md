@@ -1,7 +1,7 @@
-# 🚀 Curso de JavaScript desde Cero para principiantes
+# 🚀 Curso de JavaScript desde Cero
 
 ## 📚 Contenido (sujeto a cambios y estructura)
-1.  ** Cap 1- Variables y Tipos de Datos**
+1.  ** Cap 1- Variables y Tipos de Datos **
      - [`capitulo-1/1-Variables-y-reglas.js`] (./capitulo-1/1-Variables-y-reglas.js)
      - [`capitulo-1/2-Tipos-de-datos.js`] (./capitulo-1/2-Tipos-de-datos.js)
      - [`capitulo-1/3-Primitivos.js`] (./capitulo-1/3-Primitivos.js)
