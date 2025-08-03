@@ -1,6 +1,6 @@
 # 🚀 Curso de JavaScript desde Cero
 
-## 📚 Contenido (sujeto a cambios y estructura)
+## 📚 Contenido (en construcción)
 
 1.  ** Capítulo 1 - Variables y Tipos de Datos **
 
@@ -12,7 +12,7 @@
     - [`capitulo-1/6-Tipado-dinamico.js`] (./capitulo-1/6-Tipado-dinamico.js)
     - [`capitulo-1/7-Ejercicios.js`] (./capitulo-1/7-Ejercicios.js)
 
-2.  ** Capítulo 2 - Próximanente **
+2.  ** Capítulo 2 - Próximamente **
 
 ## ⚡ Requisitos
 
