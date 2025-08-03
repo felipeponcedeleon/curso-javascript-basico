@@ -10,7 +10,7 @@
     - [`capitulo-1/4-Variables-const.js`] (./capitulo-1/4-Variables-const.js)
     - [`capitulo-1/5-Tipos-de-datos.js`] (./capitulo-1/5-Tipos-de-datos.js)
     - [`capitulo-1/6-Tipado-dinamico.js`] (./capitulo-1/6-Tipado-dinamico.js)
-    - [`capitulo-1/7-Ejercicios.js`] (./capitulo-1/7-Ejercicios.js)
+    - [`capitulo-1/7-Ejercicios.pdf`] (./capitulo-1/7-Ejercicios.pdf)
 
 2.  ** Capítulo 2 - Próximamente **
 
@@ -26,6 +26,6 @@
 # Clona el repositorio
 git clone https://github.com/tu-usuario/curso-javascript.git
 
-# Ejecuta un archivo con Node
-node capitulo-1.js
+# Ejecuta un archivo con Node (ejemplo)
+node 1-Variables-y-reglas.js
 ```
