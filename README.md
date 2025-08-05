@@ -36,7 +36,7 @@
 
 ```bash
 # Clona el repositorio
-git clone https://github.com/tu-usuario/curso-javascript.git
+git clone https://github.com/felipeponcedeleon/curso-javascript-basico.git
 
 # Ejecuta un archivo con Node (ejemplo)
 node 1-Variables-y-reglas.js
