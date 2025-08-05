@@ -12,7 +12,19 @@
     - [`capitulo-1/6-Tipado-dinamico.js`] (./capitulo-1/6-Tipado-dinamico.js)
     - [`capitulo-1/7-Ejercicios.pdf`] (./capitulo-1/7-Ejercicios.pdf)
 
-2.  ** Capítulo 2 - Próximamente **
+2.  ** Capítulo 2 - Operadores **
+
+    - [`capitulo-2/1-Declaraciones.js`] (./capitulo-2/1-Declaraciones.js)
+    - [`capitulo-2/2-Operadores-comunes.js`] (./capitulo-2/2-Operadores-comunes.js)
+    - [`capitulo-2/3-Operadores-aritmeticos.js`] (./capitulo-2/3-Operadores-aritmeticos.js)
+    - [`capitulo-2/4-Operadores-de-asignacion.js`] (./capitulo-2/4-Operadores-de-asignacion.js)
+    - [`capitulo-2/5-Operadores-de-comparacion.js`] (./capitulo-2/5-Operadores-de-comparacion.js)
+    - [`capitulo-2/6-Operadores-logicos.js`] (./capitulo-2/6-Operadores-logicos.js)
+    - [`capitulo-2/7-Operadores-bitwise.js`] (./capitulo-2/7-Operadores-bitwise.js)
+    - [`capitulo-2/8-Operador-ternario.js`] (./capitulo-2/8-Operador-ternario.js)
+    - [`capitulo-2/9-Ejercicios.pdf`] (./capitulo-2/9-Ejercicios.pdf)
+
+3.  ** Capítulo 3 - Próximamente **
 
 ## ⚡ Requisitos
 
