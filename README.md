@@ -29,6 +29,7 @@
     - [`capitulo-3/2-If-else.js`] (./capitulo-3/2-If-else.js)
     - [`capitulo-3/3-If-else-if.js`] (./capitulo-3/3-If-else-if.js)
     - [`capitulo-3/4-Switch.js`] (./capitulo-3/4-Switch.js)
+    - [`capitulo-3/5-Ejercicios.pdf`] (./capitulo-3/5-Ejercicios.pdf)
 
 4.  ** Capítulo 4 - Ciclos (Próximamente) **
 
