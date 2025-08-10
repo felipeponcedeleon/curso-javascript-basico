@@ -20,11 +20,26 @@
     - [`capitulo-2/4-Operadores-de-asignacion.js`] (./capitulo-2/4-Operadores-de-asignacion.js)
     - [`capitulo-2/5-Operadores-de-comparacion.js`] (./capitulo-2/5-Operadores-de-comparacion.js)
     - [`capitulo-2/6-Operadores-logicos.js`] (./capitulo-2/6-Operadores-logicos.js)
-    - [`capitulo-2/7-Operadores-bitwise.js`] (./capitulo-2/7-Operadores-bitwise.js)
-    - [`capitulo-2/8-Operador-ternario.js`] (./capitulo-2/8-Operador-ternario.js)
-    - [`capitulo-2/9-Ejercicios.pdf`] (./capitulo-2/9-Ejercicios.pdf)
+    - [`capitulo-2/7-Operador-ternario.js`] (./capitulo-2/7-Operador-ternario.js)
+    - [`capitulo-2/8-Ejercicios.pdf`] (./capitulo-2/8-Ejercicios.pdf)
 
-3.  ** Capítulo 3 - Próximamente **
+3.  ** Capítulo 3 - Control de flujo **
+
+    - [`capitulo-3/1-If.js`] (./capitulo-3/1-If.js)
+    - [`capitulo-3/2-If-else.js`] (./capitulo-3/2-If-else.js)
+    - [`capitulo-3/3-If-else-if.js`] (./capitulo-3/3-If-else-if.js)
+    - [`capitulo-3/4-Switch.js`] (./capitulo-3/4-Switch.js)
+
+4.  ** Capítulo 4 - Ciclos (Próximamente) **
+
+    - [`capitulo-4/1-Ciclo-while.js`] (./capitulo-4/1-Ciclo-while.js)
+    - [`capitulo-4/2-Loops-infinitos.js`] (./capitulo-4/2-Loops-infinitos.js)
+    - [`capitulo-4/3-Do-while.js`] (./capitulo-4/3-Do-while.js)
+    - [`capitulo-4/4-Ciclo-for.js`] (./capitulo-4/4-Ciclo-for.js)
+    - [`capitulo-4/5-Ciclo-for-of.js`] (./capitulo-4/5-Ciclo-for-of.js)
+    - [`capitulo-4/6-Ciclo-for-in.js`] (./capitulo-4/6-Ciclo-for-in.js)
+    - [`capitulo-4/7-Continue-break.js`] (./capitulo-4/7-Continue-break.js)
+    - [`capitulo-4/8-Ejercicios.pdf`] (./capitulo-4/8-Ejercicios.pdf)
 
 ## ⚡ Requisitos
 
