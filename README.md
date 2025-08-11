@@ -31,11 +31,11 @@
     - [`capitulo-3/4-Switch.js`] (./capitulo-3/4-Switch.js)
     - [`capitulo-3/5-Ejercicios.pdf`] (./capitulo-3/5-Ejercicios.pdf)
 
-4.  ** Capítulo 4 - Ciclos (Próximamente) **
+4.  ** Capítulo 4 - Ciclos **
 
     - [`capitulo-4/1-Ciclo-while.js`] (./capitulo-4/1-Ciclo-while.js)
     - [`capitulo-4/2-Loops-infinitos.js`] (./capitulo-4/2-Loops-infinitos.js)
-    - [`capitulo-4/3-Do-while.js`] (./capitulo-4/3-Do-while.js)
+    - [`capitulo-4/3-Ciclo-do-while.js`] (./capitulo-4/3-Ciclo-do-while.js)
     - [`capitulo-4/4-Ciclo-for.js`] (./capitulo-4/4-Ciclo-for.js)
     - [`capitulo-4/5-Ciclo-for-of.js`] (./capitulo-4/5-Ciclo-for-of.js)
     - [`capitulo-4/6-Ciclo-for-in.js`] (./capitulo-4/6-Ciclo-for-in.js)
