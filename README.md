@@ -42,6 +42,11 @@
     - [`capitulo-4/7-Continue-break.js`] (./capitulo-4/7-Continue-break.js)
     - [`capitulo-4/8-Ejercicios.pdf`] (./capitulo-4/8-Ejercicios.pdf)
 
+5.  ** Capítulo 5 - Objetos (En construcción) **
+
+    - [`capitulo-5/1-Objetos-que-son.js`] (./capitulo-5/1-Objetos-que-son.js)
+    - [`capitulo-5/2-Operaciones-con-objetos.js`] (./capitulo-5/2-Operaciones-con-objetos.js)
+
 ## ⚡ Requisitos
 
 - Editor de código (VS Code, Sublime Text, etc.).
