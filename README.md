@@ -42,10 +42,24 @@
     - [`capitulo-4/7-Continue-break.js`] (./capitulo-4/7-Continue-break.js)
     - [`capitulo-4/8-Ejercicios.pdf`] (./capitulo-4/8-Ejercicios.pdf)
 
-5.  ** Capítulo 5 - Objetos (En construcción) **
+5.  ** Capítulo 5 - Utilidades **
 
-    - [`capitulo-5/1-Objetos-que-son.js`] (./capitulo-5/1-Objetos-que-son.js)
-    - [`capitulo-5/2-Operaciones-con-objetos.js`] (./capitulo-5/2-Operaciones-con-objetos.js)
+    - [`capitulo-5/1-Math.js`] (./capitulo-5/1-Math.js)
+    - [`capitulo-5/2-Date.js`] (./capitulo-5/2-Date.js)
+    - [`capitulo-5/3-String.js`] (./capitulo-5/3-String.js)
+    - [`capitulo-5/4-Template-string.js`] (./capitulo-5/4-Template-string.js)
+    - [`capitulo-5/5-Ejercicios.js`] (./capitulo-5/5-Ejercicios.js) <- Pendiente
+
+6.  ** Capítulo 6 - Objetos **
+
+    - [`capitulo-6/1-Objetos-que-son.js`] (./capitulo-6/1-Objetos-que-son.js)
+    - [`capitulo-6/2-Operaciones-con-objetos.js`] (./capitulo-6/2-Operaciones-con-objetos.js)
+    - [`capitulo-6/3-Listar-propiedades.js`] (./capitulo-6/3-Listar-propiedades.js)
+    - [`capitulo-6/4-Unir-objetos.js`] (./capitulo-6/4-Unir-objetos.js)
+    - [`capitulo-6/5-Spread-operator.js`] (./capitulo-6/5-Spread-operator.js)
+    - [`capitulo-6/6-Ejercicios.js`] (./capitulo-6/6-Ejercicios.js) <- Pendiente
+
+7.  ** Capítulo 7 - Array (Próximamente) **
 
 ## ⚡ Requisitos
 

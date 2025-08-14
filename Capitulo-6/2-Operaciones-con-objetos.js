@@ -35,22 +35,3 @@ console.log(persona.profesion); // undefined
 console.log('-------------------------------------------');
 console.log('nombre' in persona); // true
 console.log('profesion' in persona); // false
-
-// Iterar sobre las propiedades de un objeto
-console.log('-------------------------------------------');
-for (const clave in persona) {
-    console.log(`${clave}: ${persona[clave]}`);
-}
-// nombre: Juan
-// edad: 30
-// ciudad: Valparaíso
-// pais: Chile
-// Nota: Los objetos en JavaScript son dinámicos, lo que significa que puedes agregar, modificar o eliminar 
-// propiedades en cualquier momento.
-
-// Agregando una función como propiedad del objeto
-console.log('-------------------------------------------');
-persona.saludar = function() {
-    console.log(`Hola, mi nombre es ${this.nombre} y soy de ${this.ciudad}.`);
-};
-persona.saludar(); // Hola, mi nombre es Juan y soy de Valparaíso.
