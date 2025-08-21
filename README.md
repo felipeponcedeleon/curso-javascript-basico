@@ -59,7 +59,27 @@
     - [`capitulo-6/5-Spread-operator.js`] (./capitulo-6/5-Spread-operator.js)
     - [`capitulo-6/6-Ejercicios.js`] (./capitulo-6/6-Ejercicios.js) <- Pendiente
 
-7.  ** Capítulo 7 - Array (Próximamente) **
+7.  ** Capítulo 7 - Array (Incompleto) **
+
+    - [`capitulo-7/1-Que-son-los-array.js`] (./capitulo-7/1-Que-son-los-array.js)
+    - [`capitulo-7/2-Agregando-elementos.js`] (./capitulo-7/2-Agregando-elementos.js)
+    - [`capitulo-7/3-Eliminar-elementos.js`] (./capitulo-7/3-Eliminar-elementos.js)
+    - [`capitulo-7/4-Buscar-elementos.js`] (./capitulo-7/4-Buscar-elementos.js)
+    - [`capitulo-7/5-Buscar-referencias.js`] (./capitulo-7/5-Buscar-referencias.js)
+    - [`capitulo-7/6-Limpiar-arreglos.js`] (./capitulo-7/6-Limpiar-arreglos.js)
+    - [`capitulo-7/7-Combinando-arrays.js`] (./capitulo-7/7-Combinando-arrays.js)
+    - [`capitulo-7/8-Unir-arrays.js`] (./capitulo-7/8-Unir-arrays.js)
+    - [`capitulo-7/9-Ordenar-arrays.js`] (./capitulo-7/9-Ordenar-arrays.js)
+    - [`capitulo-7/10-Every.js`] (./capitulo-7/10-Every.js) <- Pendiente
+    - [`capitulo-7/11-Some.js`] (./capitulo-7/11-Some.js) <- Pendiente
+    - [`capitulo-7/12-Filter.js`] (./capitulo-7/12-Filter.js) <- Pendiente
+    - [`capitulo-7/13-Map.js`] (./capitulo-7/13-Map.js) <- Pendiente
+    - [`capitulo-7/14-Reduce.js`] (./capitulo-7/14-Reduce.js) <- Pendiente
+    - [`capitulo-7/15-Ejercicios.js`] (./capitulo-7/15-Ejercicios.js) <- Pendiente
+
+8.  ** Capítulo 8 - Funciones (Próximamente) **
+
+    - [`capitulo-8/1-Que-son-las-funciones.js`] (.capitulo-8/1-Que-son-las-funciones.js) <- Pendiente
 
 ## ⚡ Requisitos
 
