@@ -70,16 +70,19 @@
     - [`capitulo-7/7-Combinando-arrays.js`] (./capitulo-7/7-Combinando-arrays.js)
     - [`capitulo-7/8-Unir-arrays.js`] (./capitulo-7/8-Unir-arrays.js)
     - [`capitulo-7/9-Ordenar-arrays.js`] (./capitulo-7/9-Ordenar-arrays.js)
-    - [`capitulo-7/10-Every.js`] (./capitulo-7/10-Every.js) <- Pendiente
-    - [`capitulo-7/11-Some.js`] (./capitulo-7/11-Some.js) <- Pendiente
-    - [`capitulo-7/12-Filter.js`] (./capitulo-7/12-Filter.js) <- Pendiente
-    - [`capitulo-7/13-Map.js`] (./capitulo-7/13-Map.js) <- Pendiente
+    - [`capitulo-7/10-Every.js`] (./capitulo-7/10-Every.js)
+    - [`capitulo-7/11-Some.js`] (./capitulo-7/11-Some.js)
+    - [`capitulo-7/12-Filter.js`] (./capitulo-7/12-Filter.js)
+    - [`capitulo-7/13-Map.js`] (./capitulo-7/13-Map.js)
     - [`capitulo-7/14-Reduce.js`] (./capitulo-7/14-Reduce.js) <- Pendiente
     - [`capitulo-7/15-Ejercicios.js`] (./capitulo-7/15-Ejercicios.js) <- Pendiente
 
-8.  ** Capítulo 8 - Funciones (Próximamente) **
+8.  ** Capítulo 8 - Funciones (Incompleto) **
 
     - [`capitulo-8/1-Que-son-las-funciones.js`] (.capitulo-8/1-Que-son-las-funciones.js) <- Pendiente
+    - [`capitulo-8/2-Function-declaration.js`] (.capitulo-8/2-Function-declaration.js) <- Pendiente
+    - [`capitulo-8/3-Function-expression.js`] (.capitulo-8/3-Function-expression.js) <- Pendiente
+    - [`capitulo-8/4-Arrow-function.js`] (.capitulo-8/4-Arrow-function.js) <- Pendiente
 
 ## ⚡ Requisitos
 
